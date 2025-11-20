@@ -23,4 +23,4 @@ A browser-based game for two players with dynamic UI and responsive design.
 - Click reset to start over
 
 ## Screenshots
-![Game Screenshot](screenshot.png)
+![Game Screenshot](preview.png)
