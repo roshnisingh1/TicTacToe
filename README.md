@@ -1,9 +1,6 @@
 # TicTacToe
 Tic Tac Toe is a browser-based game where two players can play in turns. It includes dynamic UI elements and responsive design for desktop and mobile.
 
-# Tic Tac Toe
-
-## Description
 A browser-based game for two players with dynamic UI and responsive design.
 
 ## Tech Stack
