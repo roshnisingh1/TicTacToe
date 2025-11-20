@@ -22,5 +22,5 @@ A browser-based game for two players with dynamic UI and responsive design.
 - Play with a friend
 - Click reset to start over
 
-## Screenshots
-![Game Screenshot](preview.png)
+## Screenshot
+![Project Preview](assets/preview.png)
