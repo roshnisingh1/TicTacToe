@@ -23,4 +23,4 @@ A browser-based game for two players with dynamic UI and responsive design.
 - Click reset to start over
 
 ## Screenshot
-![Project Preview](assets/preview.png)
+![Project Preview](TicTacToe/assets/preview.png)
